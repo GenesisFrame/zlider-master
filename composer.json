@@ -1,0 +1,13 @@
+{
+    "name": "gizburdt/zlider",
+    "type": "wordpress-plugin",
+    "description": "Bare slider plugin for Wordpress",
+    "authors": [
+        {
+            "name": "Gizburdt",
+            "email": "gizburdt@gmail.com"
+        }
+    ],
+    "require": {
+    }
+}
